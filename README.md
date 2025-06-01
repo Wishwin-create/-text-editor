@@ -1,2 +1,1 @@
-# -text-editor
-A simple text editor using html,css and java script
+2023T01845-L.L.W.G. Alwis
